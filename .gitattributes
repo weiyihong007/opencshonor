@@ -1,4 +1,0 @@
-*.mp4 filter=lfs diff=lfs merge=lfs -text
-*.pdf filter=lfs diff=lfs merge=lfs -text
-*.zip filter=lfs diff=lfs merge=lfs -text
-docs/utils/xjtu-cshonor-utils/课内资料/大二/电路/电路手写版.zip filter=lfs diff=lfs merge=lfs -text
