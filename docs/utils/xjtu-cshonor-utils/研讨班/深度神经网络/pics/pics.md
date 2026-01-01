@@ -1,1 +1,0 @@
-- [cat-dog.gif](./cat-dog.gif)
